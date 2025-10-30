@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double originalPrice = 250.0;
+            double discountRate = 0.15;
+            double discountAmount = originalPrice * discountRate;
+
+            double finalPrice = originalPrice - discountAmount;
+            Console.WriteLine($"original price :$ {originalPrice}");
+            Console.WriteLine($"Discount : {discountRate * 100}%");
+            Console.WriteLine($"finalPrice after discount :${ finalPrice: F2}"); 
+
+        }
+}
+}
