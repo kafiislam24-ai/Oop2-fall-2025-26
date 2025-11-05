@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\bin\Debug\net9.0\MortgageCalculator.exe
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\bin\Debug\net9.0\MortgageCalculator.deps.json
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\bin\Debug\net9.0\MortgageCalculator.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\bin\Debug\net9.0\MortgageCalculator.dll
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\bin\Debug\net9.0\MortgageCalculator.pdb
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\MortgageCalculator.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\MortgageCalculator.dll
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\refint\MortgageCalculator.dll
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\MortgageCalculator.pdb
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\MortgageCalculator.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\OOP2\Project\MortgageCalculator\MortgageCalculator\obj\Debug\net9.0\ref\MortgageCalculator.dll
